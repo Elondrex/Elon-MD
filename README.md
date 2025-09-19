@@ -56,7 +56,7 @@ gantt
   </a>
 </p>
 
-### 🚀 **Quick Deploy**
+### 🚀 Quick Deploy
 
 Deploy Elon MD to your favorite platform with one click:
 
