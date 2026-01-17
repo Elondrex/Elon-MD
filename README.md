@@ -6,10 +6,10 @@
 
 ## 📊 Profile Overview
 
-👤 **Developer**:
+👤 **Developer**:  
 [ELONDREX](https://github.com/Elondrex)
 
-📊 **Profile Views**:
+📊 **Profile Views**:  
 ![Profile Views](https://komarev.com/ghpvc/?username=elondrex&label=VIEWS&style=flat-square&color=blue)
 
 📈 **GitHub Stats**:  
