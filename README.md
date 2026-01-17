@@ -1,5 +1,3 @@
-
-
 # 🌟 ELON MD 🚀
 
 [![ELONDREX](https://raw.githubusercontent.com/elondrex/Elon-MD/main/media/elon.svg)](https://whatsapp.com/channel/0029VbC58oLAjPXSXn7Hyv1Q)
@@ -122,7 +120,11 @@
 ## 📱 Connect With Me
 
 📞 **WhatsApp**: [Elondrex](https://wa.me/2347018486818)
+
 📱 **Facebook**: [ElonDrex FB](https://www.facebook.com/share/16rFuxcuDN)
+
 📢 **Telegram**: [Elon TG](t.me/Elondrex0)
+
 📹 **YouTube**: [Elondrex YT](https://youtube.com/Elondrex)  
+
 📧 **GitHub**: [Elondrex GIT](https://github.com/Elondrex)  
