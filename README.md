@@ -85,7 +85,7 @@
 </details>
 
 #### 5. **Netlify** (For Frontend)  
-[Netlif](https://app.netlify.com/)  
+[Netlify](https://app.netlify.com/)  
 <details><summary>Steps</summary>
 1. Use for frontend session site only  
 2. Drag/drop or link repo with index.html  
@@ -123,6 +123,6 @@
 
 📞 **WhatsApp**: [Elondrex](https://wa.me/2347018486818)
 📱 **Facebook**: [ElonDrex FB](https://www.facebook.com/share/16rFuxcuDN)
-📢 **Telegram**: [Elon TG](t.me/Elondrex0)  
+📢 **Telegram**: [Elon TG](t.me/Elondrex0)
 📹 **YouTube**: [Elondrex YT](https://youtube.com/Elondrex)  
 📧 **GitHub**: [Elondrex GIT](https://github.com/Elondrex)  
